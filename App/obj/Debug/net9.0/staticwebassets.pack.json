@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\PersonalGithub\\.net-rabbitmq-mail\\App\\wwwroot\\templates\\WelcomeMessageTemplate.tt",
+      "PackagePath": "staticwebassets\\templates\\WelcomeMessageTemplate.tt"
+    },
+    {
+      "Id": "C:\\PersonalGithub\\.net-rabbitmq-mail\\App\\wwwroot\\templates\\WelcomeMessageTemplate.txt",
+      "PackagePath": "staticwebassets\\templates\\WelcomeMessageTemplate.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.App.props",
+      "PackagePath": "build\\App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.App.props",
+      "PackagePath": "buildMultiTargeting\\App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.App.props",
+      "PackagePath": "buildTransitive\\App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

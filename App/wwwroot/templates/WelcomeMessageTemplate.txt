@@ -1,0 +1,9 @@
+﻿
+Hello {{ FirstName | append:' ' | append:LastName }}
+
+<p>Thank you for joining us. Welcome to the RabbitMQ Family!</p>
+
+<p>Thank you,
+<br />
+RabbitMQ Team :)
+</p>

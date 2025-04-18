@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tg/dj2Ksv9s=",
+  "success": true,
+  "projectFilePath": "C:\\PersonalGithub\\.net-rabbitmq-mail\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliketan\\.nuget\\packages\\fluid.core\\2.22.0\\fluid.core.2.22.0.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.1\\microsoft.dotnet.ilcompiler.9.0.1.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0\\microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.1\\microsoft.net.illink.tasks.9.0.1.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\parlot\\1.3.5\\parlot.1.3.5.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\scalar.aspnetcore\\2.1.13\\scalar.aspnetcore.2.1.13.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\system.net.http.json\\9.0.4\\system.net.http.json.9.0.4.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\timezoneconverter\\7.0.0\\timezoneconverter.7.0.0.nupkg.sha512",
+    "C:\\Users\\aliketan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
