@@ -1,3 +1,0 @@
-C:\PersonalGithub\.net-rabbitmq-mail\App\wwwroot\templates\WelcomeMessageTemplate.txt
-wwwroot\templates\WelcomeMessageTemplate.tt
-wwwroot\templates\WelcomeMessageTemplate.txt
